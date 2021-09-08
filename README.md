@@ -2,8 +2,8 @@
 
 <a href="https://github.com/KristijanIvanoski/github-stats">
 
-![](https://github.com/KristijanIvanoski/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/KristijanIvanoski/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/KristijanIvanoski/KristijanIvanoski/blob/master/generated/overview.svg)
+![](https://github.com/KristijanIvanoski/KristijanIvanoski/blob/master/generated/languages.svg)
 
 </a>
 
