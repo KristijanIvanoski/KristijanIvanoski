@@ -1,4 +1,4 @@
-# [GitHub Stats Visualization](https://github.com/KristijanIvanoski/github-stats)
+# My stats 
 
 <a href="https://github.com/KristijanIvanoski/github-stats">
 
@@ -7,3 +7,4 @@
 
 </a>
 
+🚀 Stats provided by: [github-stats!](https://github.com/jstrieb/github-stats)
