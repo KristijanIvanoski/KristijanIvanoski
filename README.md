@@ -7,4 +7,4 @@
 
 </a>
 
-🚀 Stats provided by: [github-stats!](https://github.com/jstrieb/github-stats)
+🚀 Stats provided by: [github-stats!](https://github.com/jstrieb/github-stats) 
